@@ -1,4 +1,4 @@
-name: Frontend ci pipline
+name: Frontend CI pipline
 
 on:
     push:
